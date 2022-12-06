@@ -16,4 +16,6 @@
 		. with user and group IDs displayed numerically
 		. And hidden files (starting with .)
 
-	6. The file "6-firstdirectory" creates a directory called "my_first_directory in the /tmp/ directory
+	6. The file "6-firstdirectory" creates a directory called "my_first_directory in the /tmp/ directory.
+
+	7. the "7-movethatfile" file writes a script that move the file betty from the /tmp directory to the /tmp/my_first_directory.
