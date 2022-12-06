@@ -18,4 +18,6 @@
 
 	6. The file "6-firstdirectory" creates a directory called "my_first_directory in the /tmp/ directory.
 
-	7. the "7-movethatfile" file writes a script that move the file betty from the /tmp directory to the /tmp/my_first_directory.
+	7. The "7-movethatfile" file writes a script that move the file betty from the /tmp directory to the /tmp/my_first_directory.
+
+	8. The '8-firstdelete' file deletes the file betty in the /tmp/my_firstdirectory.
