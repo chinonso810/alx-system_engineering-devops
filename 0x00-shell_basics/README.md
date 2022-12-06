@@ -26,3 +26,4 @@
 
 	10. The '10-back' file contains a script that changes the working directory to the previous one.
 
+	11. The file "11-lists" contains a script that list all files (including files that begin with a period) in the current, parent, and the /boot 			directory in long format.
