@@ -21,3 +21,5 @@
 	7. The "7-movethatfile" file writes a script that move the file betty from the /tmp directory to the /tmp/my_first_directory.
 
 	8. The '8-firstdelete' file deletes the file betty in the /tmp/my_firstdirectory.
+
+	9. The file '9-firstdirdeletion' contains a script that deletes the directory my_first_directory.
