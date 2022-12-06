@@ -23,3 +23,6 @@
 	8. The '8-firstdelete' file deletes the file betty in the /tmp/my_firstdirectory.
 
 	9. The file '9-firstdirdeletion' contains a script that deletes the directory my_first_directory.
+
+	10. The '10-back' file contains a script that changes the working directory to the previous one.
+
