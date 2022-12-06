@@ -31,3 +31,6 @@
 	12. The file '12-file_type' contains a script that prints the type of the file named "iamafile" .
 
 	13. The "13-symbolic_link" file contains a script that creates a symbolic link to /bin/ls.
+
+	14. The file '14-copy_html' contains a script that copies all the HTML files from the current working directory to the parent of the working 
+		directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent 			of the working directory.
