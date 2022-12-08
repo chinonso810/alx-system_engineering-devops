@@ -40,3 +40,19 @@
 	16. The file "101-clean_emacs"creates a script that deletes all files in the current working directory that end with the character  ~   .
 
 	17. The "102-tree" file contains  a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current working                   directory.
+
+	18. The file "103-commas" contains a bash script that lists all files and directories of the current working directory seperated by commas:
+
+		a. Directory names should end with a slash (/)
+
+		b. Files and directories starting with a dot (.) should be listed
+
+		c. The listing should be alpha ordered, except for the directories . and .. which should be listed at the very beginning
+
+		d. Only digits and letters are used to sort; Digits should come first
+
+		You can assume that all the files we will test with will have at least one letter or one digit
+
+		The listing should end with a new line.
+
+
