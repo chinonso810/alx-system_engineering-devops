@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pxa |sort -n
+ls -pamv
