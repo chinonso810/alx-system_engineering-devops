@@ -6,3 +6,5 @@
 
 	3 -The '2-groups' file contains a script that prints all groups the current user is part of.
 
+	4 -Created the file 3-new_owner, it changes the owner of the file 'hello' to betty.
+
