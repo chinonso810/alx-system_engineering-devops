@@ -10,3 +10,5 @@
 
 	4 -The file 4-empty contains a script that creates an empty file named hello.
 
+	5 -Created the file 5-execute, it adds the execute permission to the owner of the file hello.
+
