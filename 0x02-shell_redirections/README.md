@@ -4,3 +4,5 @@
 	
 	#Wrote  a script that displays a confused smiley "(Ôo)' inside the file 1-confused_smiley.
 
+	# The file 2-hellofile Display the content of the /etc/passwd file.
+
