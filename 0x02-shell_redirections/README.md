@@ -9,3 +9,6 @@
 	# The file 3-twofiles contains a bash script that display the content of /etc/passwd and /etc/hosts.
 
 	# Created a file which contains a bash script that displays the last 10 lines fo the file /etc/passed
+
+	# Wrote a bash script that displays the third line of the file iacta.
+
